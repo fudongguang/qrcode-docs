@@ -1,0 +1,9 @@
+site_name: CODE扫码
+
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+  - Home: index.md
+
+copyright: 
